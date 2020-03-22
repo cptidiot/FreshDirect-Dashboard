@@ -1,0 +1,12 @@
+name: FreshDirect
+title: FreshDirect
+username:
+account: cptidiot
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1975720
+bundleId: 2906643
+url: https://cptidiot.shinyapps.io/FreshDirect/
+when: 1584830821.46989
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,32 @@
+discount_id,discount_rate,description,valid_from,valid_to
+dis1,0.88,street campaign promotion,03/18/2018 02:17 PM,11/19/2018 07:10 PM
+dis2,0.9,new customer promotion,02/03/2018 01:21 PM,10/14/2018 01:42 AM
+dis3,0.73,new customer promotion,01/28/2018 05:33 PM,03/04/2019 05:58 AM
+dis4,0.87,Christmas Promotion,01/18/2018 05:11 AM,09/10/2018 09:27 PM
+dis5,0.93,street campaign promotion,04/16/2018 09:57 AM,02/15/2019 04:15 AM
+dis6,0.75,new customer promotion,05/05/2018 12:14 AM,08/30/2018 09:34 PM
+dis7,0.65,Black Friday,03/09/2018 11:01 PM,07/15/2018 07:12 PM
+dis8,0.92,new customer promotion,04/14/2018 06:35 AM,10/07/2018 03:42 AM
+dis9,0.81,street campaign promotion,05/02/2018 01:32 PM,05/12/2019 07:17 PM
+dis10,0.63,newspaper ads promotion,03/30/2018 10:14 AM,07/22/2018 02:15 PM
+dis11,0.64,street campaign promotion,04/19/2018 09:40 PM,10/02/2018 03:08 PM
+dis12,0.6,Black Friday,02/06/2018 04:25 AM,05/24/2019 01:59 AM
+dis13,0.9,new customer promotion,01/03/2018 07:02 PM,06/21/2018 04:23 AM
+dis14,0.56,Christmas Promotion,05/30/2018 09:48 AM,08/26/2018 06:14 PM
+dis15,0.68,street campaign promotion,04/03/2018 01:24 AM,02/21/2019 08:58 PM
+dis16,0.79,new customer promotion,01/19/2018 02:50 AM,07/12/2018 06:27 PM
+dis17,0.9,street campaign promotion,01/06/2018 07:46 AM,07/24/2018 01:12 PM
+dis18,0.62,new customer promotion,03/31/2018 07:47 AM,11/18/2018 03:33 PM
+dis19,0.74,Black Friday,04/22/2018 03:27 PM,01/26/2019 11:57 PM
+dis20,0.6,newspaper ads promotion,01/19/2018 05:51 PM,04/17/2019 11:18 AM
+dis21,0.86,Black Friday,04/22/2018 10:41 PM,12/15/2018 09:40 AM
+dis22,0.88,new customer promotion,03/25/2018 08:48 PM,01/06/2019 04:43 AM
+dis23,0.53,Black Friday,04/17/2018 11:14 PM,12/24/2018 01:00 AM
+dis24,0.89,Christmas Promotion,03/02/2018 04:22 AM,12/13/2018 12:41 AM
+dis25,0.93,subway ads promotion,05/10/2018 08:27 PM,12/08/2018 09:58 AM
+dis26,0.93,subway ads promotion,03/30/2018 05:13 AM,07/28/2018 02:55 PM
+dis27,0.59,subway ads promotion,04/29/2018 04:37 AM,12/17/2018 09:50 PM
+dis28,0.91,subway ads promotion,01/21/2018 05:49 PM,11/02/2018 03:40 PM
+dis29,0.73,new customer promotion,04/19/2018 05:41 PM,08/17/2018 07:31 AM
+dis30,0.76,Black Friday,01/06/2018 03:59 AM,03/13/2019 07:10 PM
+dis31,1.0,No Discount,1900-01-01,9019-01-01
